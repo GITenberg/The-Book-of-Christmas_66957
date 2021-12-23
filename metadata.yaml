@@ -1,0 +1,44 @@
+_repo: The-Book-of-Christmas_66957
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+  illustrator:
+    agent_name: Edwards, George Wharton
+    birthdate: 1859
+    deathdate: 1950
+    gutenberg_agent_id: '3048'
+    url: http://www.gutenberg.org/2009/agents/3048
+    wikipedia: https://en.wikipedia.org/wiki/George_Wharton_Edwards
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2021-12-17'
+identifiers:
+  gutenberg: '66957'
+language: en
+pgterms:marc904: https://archive.org/details/bookofchristmas00mabi/page/n7/mode/2up
+pgterms:marc905: 20201112212139mabie
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Charlene Taylor, Alan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United States :The MacMillan Company,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Book of Christmas
+url: http://www.gutenberg.org/ebooks/66957
