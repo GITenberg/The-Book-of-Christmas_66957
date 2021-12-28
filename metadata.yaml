@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '3048'
     url: http://www.gutenberg.org/2009/agents/3048
     wikipedia: https://en.wikipedia.org/wiki/George_Wharton_Edwards
+covers:
+- cover_type: archival
+  image_path: 66957-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66957#The-Book-of-Christmas
 gutenberg_issued: '2021-12-17'
 identifiers:
   gutenberg: '66957'
